@@ -1,5 +1,6 @@
-# kotlinmyrestapi
-Source code for a Kotlin-based Spring backend, used in the 'Kotlin Deep Dive' talk at Devoxx 2017 (https://cfp.devoxx.be/2017/talk/MCN-7281/Kotlin_Deep_Dive)
+## Spring boot web app using Kotlin
+
+Source code is influenced from the 'Kotlin Deep Dive' talk at Devoxx 2017
 
 ## Run
 Build and run:    
